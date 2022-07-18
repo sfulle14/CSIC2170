@@ -1,0 +1,1 @@
+{"error":"lstat /home/runner/Open-lab-1-stevenfuller96/.lesson: no such file or directory","level":"error","msg":"unable to stat .lesson","time":"2022-07-18T14:45:48Z"}
